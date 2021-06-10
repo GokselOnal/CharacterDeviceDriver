@@ -27,7 +27,7 @@
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Alperen Zengin, Göksel Ünal, Nurettin Altıntaş");
+MODULE_AUTHOR("Alperen Zengin, Göksel Önal, Nurettin Altıntaş");
 MODULE_DESCRIPTION("A Linux character device driver");
 MODULE_VERSION("0.01");
 
